@@ -1,4 +1,4 @@
-﻿![Interactive Resume (E CV)](.github/header.png)
+﻿![Interactive Resume (E CV)](icon.png)
 
 
 
